@@ -13,7 +13,7 @@ pool:
       jdk10:
         jdk_version: "1.10"
       jdk11:
-        dk_version: "1.11"
+        jdk_version: "1.11"
     maxParallel: 2
 
 steps:
